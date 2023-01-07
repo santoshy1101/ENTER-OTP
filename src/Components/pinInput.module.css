@@ -1,0 +1,32 @@
+
+.pinBox input{
+    width: 70px;
+    height: 70px;
+    font-size: x-large;
+    text-align: center;
+    font-weight: 800;
+    margin: 20px 10px;
+    border-radius: 5px;
+border: none;
+text-transform: uppercase;
+border-top-right-radius: 30px;
+border-bottom-left-radius: 30px;
+color: black;
+filter: blur(0px);
+
+}
+.pinBox{
+
+   width: 39%;
+  margin: auto;
+  text-align: center;
+  /* background: #dbe2ee; */
+  background: #1d59ca;
+  border-top-right-radius: 90px;
+  border-bottom-left-radius: 90px;
+  padding: 10px;
+  filter: none;
+}
+input:focus{
+    outline:none;
+}
