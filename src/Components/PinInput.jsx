@@ -62,7 +62,7 @@ const PinInput = ({ length, charLength }) => {
 
   return (
     <div>
-      <h1>ENTER OTP </h1>
+      <h2>ENTER OTP </h2>
       <div className={styles.pinBox}>
         {pinLength.length > 0 &&
           pinLength.map((ele, index) => {
