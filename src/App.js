@@ -5,7 +5,7 @@ function App() {
     < >
 
 <div style={{ textAlign:"center"}}>
-<h1>Hello Santosh !!!</h1>
+<h1>Hello Santosh.....</h1>
 <PinInput length={5} charLength={1}/>
 
 </div>
